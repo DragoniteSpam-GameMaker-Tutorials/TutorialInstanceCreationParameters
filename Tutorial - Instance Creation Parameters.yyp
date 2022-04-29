@@ -1,5 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"spr_foe","path":"sprites/spr_foe/spr_foe.yy",},"order":17,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":18,},
+    {"id":{"name":"spr_me","path":"sprites/spr_me/spr_me.yy",},"order":16,},
+    {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":19,},
+    {"id":{"name":"obj_foe","path":"objects/obj_foe/obj_foe.yy",},"order":21,},
+    {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":20,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":14,},
   ],
   "Options": [
@@ -14,7 +20,7 @@
     {"name":"Windows UWP","path":"options/windowsuap/options_windowsuap.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
